@@ -1,0 +1,19 @@
+.paragraph {
+  background-color: #FFA8B5;
+  font-family: 'Vardana', 'DejaVu Sans', sans-serif;
+}
+
+#ohyeah {
+  color: blue;
+  font-size: 36px;
+}
+
+.paragraph.cooler {
+  font-size: 24px;
+}
+
+#ohno {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
